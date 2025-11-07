@@ -1,5 +1,5 @@
 # Cyber-Immediate-Immersion
-This repository is a hands-on showcase of cybersecurity projects I have completed, demonstrating practical experience with network analysis, vulnerability assessment, malware detection, and ethical hacking techniques. Each project is based on real-world scenarios and uses industry-standard tools.
+This repository is a showcase of cybersecurity projects I have completed, demonstrating practical experience with network analysis, vulnerability assessment, malware detection, and ethical hacking techniques. Each project is based on real-world scenarios and uses industry-standard tools.
 
 <h2>Description</h2>
 
@@ -25,15 +25,18 @@ This repository is a hands-on showcase of cybersecurity projects I have complete
 
 <br />
 
-<h2>Tools Used</h2>
+<h2>🛠 Tools Used</h2>
 
-- NetworkMiner – network traffic analysis
-- Wireshark – network traffic analysis
-- Burp Suite – testing websites for vulnerabilities.
-- John the Ripper – password cracking
-- VirusTotal – malware analysis
-- Linux operating system
-- Snort – intrusion detection
+- NetworkMiner – Network forensics
+- Wireshark – Packet capture analysis
+- Burp Suite – Web application vulnerabilities testing.
+- John the Ripper – Password cracking
+- VirusTotal – Malware analysis
+- Linux - Security-focused OS environment
+- Snort – Intrusion detection system
+- Nmap/Nessus - Vulenerability scanning
+
+
 
 <br />
 
@@ -41,5 +44,4 @@ This repository is a hands-on showcase of cybersecurity projects I have complete
 
 - These are the actual step by step actions I took to complete the project from beginning to end. 
 - These are not instructions but the actual steps I took. Doing screen shots as I went along.
-- I would go back time and time again making sure I captured all my work...
 
