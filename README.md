@@ -1,16 +1,19 @@
 # Cyber-Immediate-Immersion
-This is the first of three courses in the Cybersecurity Certificate Program.
-
+This repository is a hands-on showcase of cybersecurity projects I have completed, demonstrating practical experience with network analysis, vulnerability assessment, malware detection, and ethical hacking techniques. Each project is based on real-world scenarios and uses industry-standard tools.
 
 <h2>Description</h2>
 
-This is designed to impart basic cybersecurity skills.
+⚡ Highlights
+- Network Traffic Analysis: Inspected PCAP files to identify malicious activity, suspicious traffic, and false positives.
+- Vulnerability Assessment: Conducted scans, distinguished between attacks and normal activity, and documented findings.
+- Malware Analysis: Investigated files and network events to detect malware and exploit kits.
+- Password Security Testing: Evaluated password strength using John the Ripper and demonstrated security weaknesses.
+- User Behavior Monitoring: Analyzed system logs to detect anomalous or suspicious activity.
 
-Development of the 100% project-based, learn-by-doing program was funded in part by the Department of Defense (under agreement C5-16-0023), and the curriculum was designed in conjunction with DoD and industry experts. Students work independently through a progressive series of realistic tasks, receiving one-on-one feedback and assistance from an expert mentor.
 
 <br />
 
-<h2>Learning Outcomes</h2>
+<h2>Objectives Accomplished</h2>
 
 - Distinguish between true and false positive alerts.
 - Analyze network traffic (packet capture [PCAP] files)
@@ -36,7 +39,7 @@ Development of the 100% project-based, learn-by-doing program was funded in part
 
 <h2>Description of files</h2>
 
-- This is the actual step by step actions I took to complete the project from beginning to end. 
+- These are the actual step by step actions I took to complete the project from beginning to end. 
 - These are not instructions but the actual steps I took. Doing screen shots as I went along.
 - I would go back time and time again making sure I captured all my work...
 
